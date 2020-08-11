@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2020-08-10T07:43:25.361Z</updated>
+  <updated>2020-08-11T16:12:18.504Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,23 +17,78 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/10/hello-world/"/>
-    <id>http://yoursite.com/2020/08/10/hello-world/</id>
-    <published>2020-08-10T07:43:25.361Z</published>
-    <updated>2020-08-10T07:43:25.361Z</updated>
+    <title>git笔记</title>
+    <link href="http://yoursite.com/2020/08/12/git%E7%AC%94%E8%AE%B0/"/>
+    <id>http://yoursite.com/2020/08/12/git%E7%AC%94%E8%AE%B0/</id>
+    <published>2020-08-11T16:11:18.000Z</published>
+    <updated>2020-08-11T16:12:18.504Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;git使用方法-笔记&quot;&gt;&lt;a href=&quot;#git使用方法-笔记&quot; class=&quot;headerlink&quot; title=&quot;git使用方法/笔记&quot;&gt;&lt;/a&gt;git使用方法/笔记&lt;/h1&gt;&lt;figure class=&quot;highlight</summary>
         
       
     
     
     
+    
+    <category term="git" scheme="http://yoursite.com/tags/git/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vue-elment-UI项目笔记</title>
+    <link href="http://yoursite.com/2020/08/12/vue-project/"/>
+    <id>http://yoursite.com/2020/08/12/vue-project/</id>
+    <published>2020-08-11T16:11:18.000Z</published>
+    <updated>2020-08-11T16:33:11.968Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h3 id=&quot;项目初始化&quot;&gt;&lt;a href=&quot;#项目初始化&quot; class=&quot;headerlink&quot; title=&quot;项目初始化&quot;&gt;&lt;/a&gt;项目初始化&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;安装vue脚手架&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure class=&quot;highlight</summary>
+        
+      
+    
+    
+    
+    
+    <category term="vue" scheme="http://yoursite.com/tags/vue/"/>
+    
+    <category term="项目实战" scheme="http://yoursite.com/tags/%E9%A1%B9%E7%9B%AE%E5%AE%9E%E6%88%98/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>draft for linux</title>
+    <link href="http://yoursite.com/2020/08/11/note-for-linux/"/>
+    <id>http://yoursite.com/2020/08/11/note-for-linux/</id>
+    <published>2020-08-11T15:39:05.000Z</published>
+    <updated>2020-08-11T16:00:48.965Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h4 id=&quot;scp文件传输&quot;&gt;&lt;a href=&quot;#scp文件传输&quot; class=&quot;headerlink&quot; title=&quot;scp文件传输&quot;&gt;&lt;/a&gt;scp文件传输&lt;/h4&gt;&lt;figure class=&quot;highlight angelscript&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td</summary>
+        
+      
+    
+    
+    
+    
+    <category term="linux" scheme="http://yoursite.com/tags/linux/"/>
+    
+    <category term="draft" scheme="http://yoursite.com/tags/draft/"/>
     
   </entry>
   
